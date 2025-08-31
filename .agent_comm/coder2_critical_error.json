@@ -1,0 +1,8 @@
+{
+  "from": "coder2",
+  "to": "manager",
+  "type": "critical_error",
+  "message": "Failed to save tests/test_regression_models.py: [Errno 2] No such file or directory: 'artifacts/projects/SurVerify_Survey_Credibility_Tester/tests/test_regression_models.py'",
+  "details": {},
+  "timestamp": "2025-08-31T20:50:13.865841"
+}
